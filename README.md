@@ -3,12 +3,12 @@ At this repository, simplification and explanation and will be tested at Colab E
 
 
 # Engilish
-*  **Theory** : [https://wikidocs.net/167699](https://wikidocs.net/167703) <br>
-*  **Implemeatation** [https://wikidocs.net/167693](https://wikidocs.net/226333)
+*  **Theory** : [https://wikidocs.net/167703](https://wikidocs.net/167703) <br>
+*  **Implementation** : [https://wikidocs.net/226333](https://wikidocs.net/226333)
 
 # 한글
-*  **Theory** : [https://wikidocs.net/187967](https://wikidocs.net/167664) <br>
-*  **Implemeatation** [https://wikidocs.net/167666](https://wikidocs.net/225926)
+*  **Theory** : [https://wikidocs.net/167664](https://wikidocs.net/167664) <br>
+*  **Implementation** : [https://wikidocs.net/225926](https://wikidocs.net/225926)
 
 
 
